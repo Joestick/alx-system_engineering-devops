@@ -1,1 +1,2 @@
-script prints
+#!/bin/bash
+'why me'
